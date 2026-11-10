@@ -1,24 +1,5 @@
 [
   {
-    "id": "11-e06ae154ad",
-    "title": "双 11 腾讯云和阿里云有没有活动啊？",
-    "category": "ai",
-    "source_url": "https://www.v2ex.com/t/1250393",
-    "claim_url": "https://www.v2ex.com/t/1250393",
-    "start_date": "2026-10-21",
-    "end_date": "2026-11-10",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-cloud",
-    "tags": [
-      "blog",
-      "V2EX-cloud"
-    ],
-    "discovered_at": "2026-10-21",
-    "last_seen": "2026-11-03",
-    "status": "active"
-  },
-  {
     "id": "icloud-85-2tb-123-765d0dd4d2",
     "title": "刚需必入！苹果 iCloud+ 会员订阅 85 折优惠年卡 (2TB 空间/立省 123 元)",
     "category": "ai",
@@ -35,63 +16,6 @@
     ],
     "discovered_at": "2026-11-07",
     "last_seen": "2026-11-07",
-    "status": "active"
-  },
-  {
-    "id": "wps-ai-vip-plus-5a8782e5e4",
-    "title": "金山 WPS 大会员 (含AI + 超会) VIP 必入低价优惠 - 送京东 PLUS / 喜马 / 网易云",
-    "category": "ai",
-    "source_url": "https://www.iplaysoft.com/p/wps-vip",
-    "claim_url": "https://www.iplaysoft.com/p/wps-vip",
-    "start_date": "2026-10-19",
-    "end_date": "2026-11-16",
-    "value": "",
-    "requirements": [],
-    "description": "来源: 异次元软件世界",
-    "tags": [
-      "blog",
-      "异次元软件世界"
-    ],
-    "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-09",
-    "status": "active"
-  },
-  {
-    "id": "workbuddy-deepseek-codex-clau-1269d1fcd6",
-    "title": "腾讯 WorkBuddy 免费白嫖 DeepSeek 新模型 (国产 Codex / Claude Code 替代)",
-    "category": "ai",
-    "source_url": "https://www.iplaysoft.com/workbuddy.html",
-    "claim_url": "https://www.iplaysoft.com/workbuddy.html",
-    "start_date": "2026-10-21",
-    "end_date": "2026-11-16",
-    "value": "",
-    "requirements": [],
-    "description": "来源: 异次元软件世界",
-    "tags": [
-      "blog",
-      "异次元软件世界"
-    ],
-    "discovered_at": "2026-10-21",
-    "last_seen": "2026-11-09",
-    "status": "active"
-  },
-  {
-    "id": "b-plus-87eed4109c",
-    "title": "年度低价！哔哩 B 站大会员 + 送京东 PLUS 年卡优惠 (支持电视端)",
-    "category": "ai",
-    "source_url": "https://www.iplaysoft.com/p/bilibili-vip",
-    "claim_url": "https://www.iplaysoft.com/p/bilibili-vip",
-    "start_date": "2026-10-21",
-    "end_date": "2026-11-16",
-    "value": "",
-    "requirements": [],
-    "description": "来源: 异次元软件世界",
-    "tags": [
-      "blog",
-      "异次元软件世界"
-    ],
-    "discovered_at": "2026-10-21",
-    "last_seen": "2026-11-09",
     "status": "active"
   },
   {
@@ -114,25 +38,6 @@
     "status": "active"
   },
   {
-    "id": "ai-vip-587de366e7",
-    "title": "为了低价续费会员，我用 AI 做了个 VIP 年卡降价监控提醒网站",
-    "category": "ai",
-    "source_url": "https://www.iplaysoft.com/news/6636",
-    "claim_url": "https://www.iplaysoft.com/news/6636",
-    "start_date": "2026-10-30",
-    "end_date": "2026-11-16",
-    "value": "",
-    "requirements": [],
-    "description": "来源: 异次元软件世界",
-    "tags": [
-      "blog",
-      "异次元软件世界"
-    ],
-    "discovered_at": "2026-10-30",
-    "last_seen": "2026-11-09",
-    "status": "active"
-  },
-  {
     "id": "mac-andromeld-8-28-fda483200c",
     "title": "Mac 端安卓设备管理工具 AndroMeld 限时 8 折，仅需 28 元起！",
     "category": "ai",
@@ -149,6 +54,139 @@
     ],
     "discovered_at": "2026-11-07",
     "last_seen": "2026-11-09",
+    "status": "active"
+  },
+  {
+    "id": "11-e06ae154ad",
+    "title": "双 11 腾讯云和阿里云有没有活动啊？",
+    "category": "ai",
+    "source_url": "https://www.v2ex.com/t/1250393",
+    "claim_url": "https://www.v2ex.com/t/1250393",
+    "start_date": "2026-10-21",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-cloud",
+    "tags": [
+      "blog",
+      "V2EX-cloud"
+    ],
+    "discovered_at": "2026-10-21",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "wps-ai-vip-plus-5a8782e5e4",
+    "title": "金山 WPS 大会员 (含AI + 超会) VIP 必入低价优惠 - 送京东 PLUS / 喜马 / 网易云",
+    "category": "ai",
+    "source_url": "https://www.iplaysoft.com/p/wps-vip",
+    "claim_url": "https://www.iplaysoft.com/p/wps-vip",
+    "start_date": "2026-10-19",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-10-19",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "workbuddy-deepseek-codex-clau-1269d1fcd6",
+    "title": "腾讯 WorkBuddy 免费白嫖 DeepSeek 新模型 (国产 Codex / Claude Code 替代)",
+    "category": "ai",
+    "source_url": "https://www.iplaysoft.com/workbuddy.html",
+    "claim_url": "https://www.iplaysoft.com/workbuddy.html",
+    "start_date": "2026-10-21",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-10-21",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "b-plus-87eed4109c",
+    "title": "年度低价！哔哩 B 站大会员 + 送京东 PLUS 年卡优惠 (支持电视端)",
+    "category": "ai",
+    "source_url": "https://www.iplaysoft.com/p/bilibili-vip",
+    "claim_url": "https://www.iplaysoft.com/p/bilibili-vip",
+    "start_date": "2026-10-21",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-10-21",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "ai-vip-587de366e7",
+    "title": "为了低价续费会员，我用 AI 做了个 VIP 年卡降价监控提醒网站",
+    "category": "ai",
+    "source_url": "https://www.iplaysoft.com/news/6636",
+    "claim_url": "https://www.iplaysoft.com/news/6636",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 异次元软件世界",
+    "tags": [
+      "blog",
+      "异次元软件世界"
+    ],
+    "discovered_at": "2026-10-30",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "codex-1-8-955473f3ff",
+    "title": "福利：复旦「学术版 Codex」客户端上线,下载登录就送1 万积分，还可享会员 8 折",
+    "category": "ai",
+    "source_url": "https://www.appinn.com/wp-content/uploads/2026/11/image9jpg.avif",
+    "claim_url": "https://www.appinn.com/wp-content/uploads/2026/11/image9jpg.avif",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "codex-ba71f9703f",
+    "title": "福利｜复旦「学术版 Codex」双十一积分翻倍！",
+    "category": "ai",
+    "source_url": "https://www.appinn.com/qiewenpaper-1111/",
+    "claim_url": "https://www.appinn.com/qiewenpaper-1111/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: 小众软件",
+    "tags": [
+      "blog",
+      "小众软件"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -988,6 +1026,26 @@
     ],
     "discovered_at": "2026-11-07T00:00:00.000000+08:00",
     "last_seen": "2026-11-07",
+    "status": "active"
+  },
+  {
+    "id": "iudlwlrmaiu-lv-16-3bba74d14c",
+    "title": "IUdlwlrmaIU\n\nLv.16\n教大家从此以后微信和支付宝免费提现\n省点是点，不写太多废话只写流程一、微信（一）微信支付有优惠显示年底停止运营里面可以抽额度。小额几百块的抽抽额度了拿去提就得了（",
+    "category": "ai",
+    "source_url": "https://xiaoheihe.cn/app/bbs/link/190981415",
+    "claim_url": "https://xiaoheihe.cn/app/bbs/link/190981415",
+    "start_date": "2026-11-10",
+    "end_date": null,
+    "value": "",
+    "requirements": [],
+    "description": "小黑盒社区合集帖 | ai",
+    "tags": [
+      "小黑盒",
+      "ai",
+      "合集"
+    ],
+    "discovered_at": "2026-11-10T00:00:00.000000+08:00",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {

@@ -1,575 +1,5 @@
 [
   {
-    "id": "epic-game-store-sorry-we-re-c-790d8c9a76",
-    "title": "[Epic Game Store] Sorry We're Closed（限免）",
-    "category": "games",
-    "source_url": "https://isthereanydeal.com/game/sorry-we-re-closed/info/",
-    "claim_url": "https://isthereanydeal.com/game/sorry-we-re-closed/info/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "Epic Game Store 100% off 限免: Sorry We're Closed",
-    "tags": [
-      "blog",
-      "IsThereAnyDeal"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-05",
-    "status": "ended"
-  },
-  {
-    "id": "steam-asleep-ato-1-dc73a20acf",
-    "title": "[Steam] Asleep - Ato 1（限免）",
-    "category": "games",
-    "source_url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
-    "claim_url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "Steam 100% off 限免: Asleep - Ato 1",
-    "tags": [
-      "blog",
-      "IsThereAnyDeal"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "steam-hunting-simulator-3-cla-2a13e0bcbd",
-    "title": "[Steam] Hunting Simulator 3 - Classic American Hunter Pack（限免）",
-    "category": "games",
-    "source_url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
-    "claim_url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "Steam 100% off 限免: Hunting Simulator 3 - Classic American Hunter Pack",
-    "tags": [
-      "blog",
-      "IsThereAnyDeal"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "epic-game-store-gladiator-bla-733e71de99",
-    "title": "[Epic Game Store] gladiator-blades-of-fury（限免）",
-    "category": "games",
-    "source_url": "https://isthereanydeal.com/game/gladiator-blades-of-fury/info/",
-    "claim_url": "https://isthereanydeal.com/game/gladiator-blades-of-fury/info/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "Epic Game Store 100% off 限免: gladiator-blades-of-fury",
-    "tags": [
-      "blog",
-      "IsThereAnyDeal"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-06",
-    "status": "ended"
-  },
-  {
-    "id": "epic-game-store-quiztopia-the-948a9e4a00",
-    "title": "[Epic Game Store] quiztopia-the-ultimate-trivia（限免）",
-    "category": "games",
-    "source_url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
-    "claim_url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "Epic Game Store 100% off 限免: quiztopia-the-ultimate-trivia",
-    "tags": [
-      "blog",
-      "IsThereAnyDeal"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-06",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-hotwax-3d900f079f",
-    "title": "[itch.io] Hotwax（限免）",
-    "category": "games",
-    "source_url": "https://punkcake.itch.io/hotwax",
-    "claim_url": "https://punkcake.itch.io/hotwax",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Hotwax",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-rogueslide-5d3adb67ca",
-    "title": "[itch.io] Rogueslide（限免）",
-    "category": "games",
-    "source_url": "https://beepyeah.itch.io/rogueslide",
-    "claim_url": "https://beepyeah.itch.io/rogueslide",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Rogueslide",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-poolscape-6d213c3788",
-    "title": "[itch.io] Poolscape（限免）",
-    "category": "games",
-    "source_url": "https://cosmicarcadegames.itch.io/poolscape",
-    "claim_url": "https://cosmicarcadegames.itch.io/poolscape",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Poolscape",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-lancer-tactics-2960626002",
-    "title": "[itch.io] Lancer Tactics（限免）",
-    "category": "games",
-    "source_url": "https://wick.itch.io/lancer-tactics",
-    "claim_url": "https://wick.itch.io/lancer-tactics",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Lancer Tactics",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-the-bagmans-curse-2e21861c92",
-    "title": "[itch.io] The Bagmans Curse（限免）",
-    "category": "games",
-    "source_url": "https://caramelgames.itch.io/the-bagmans-curse",
-    "claim_url": "https://caramelgames.itch.io/the-bagmans-curse",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: The Bagmans Curse",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-new-meat-a05520c88c",
-    "title": "[itch.io] New Meat（限免）",
-    "category": "games",
-    "source_url": "https://rocketlex.itch.io/new-meat",
-    "claim_url": "https://rocketlex.itch.io/new-meat",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: New Meat",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-islands-of-the-caliph-f36c99899e",
-    "title": "[itch.io] Islands Of The Caliph（限免）",
-    "category": "games",
-    "source_url": "https://schmidt-workshops.itch.io/islands-of-the-caliph",
-    "claim_url": "https://schmidt-workshops.itch.io/islands-of-the-caliph",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Islands Of The Caliph",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-jester-53d0008cc6",
-    "title": "[itch.io] Jester（限免）",
-    "category": "games",
-    "source_url": "https://ant-san.itch.io/jester",
-    "claim_url": "https://ant-san.itch.io/jester",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Jester",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-the-librarian-0ed02984ee",
-    "title": "[itch.io] The Librarian（限免）",
-    "category": "games",
-    "source_url": "https://octavinavarro.itch.io/the-librarian",
-    "claim_url": "https://octavinavarro.itch.io/the-librarian",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: The Librarian",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-dicey-dungeons-22b7356427",
-    "title": "[itch.io] Dicey Dungeons（限免）",
-    "category": "games",
-    "source_url": "https://terrycavanagh.itch.io/dicey-dungeons",
-    "claim_url": "https://terrycavanagh.itch.io/dicey-dungeons",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Dicey Dungeons",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-03",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-tinylogic-6e114b21de",
-    "title": "[itch.io] Tinylogic（限免）",
-    "category": "games",
-    "source_url": "https://whoismuzzy.itch.io/tinylogic",
-    "claim_url": "https://whoismuzzy.itch.io/tinylogic",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Tinylogic",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "itch-io-roguecraft-dx-amiga-02524d88e7",
-    "title": "[itch.io] Roguecraft Dx Amiga（限免）",
-    "category": "games",
-    "source_url": "https://thalamusdigital.itch.io/roguecraft-dx-amiga",
-    "claim_url": "https://thalamusdigital.itch.io/roguecraft-dx-amiga",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "itch.io 限时免费: Roguecraft Dx Amiga",
-    "tags": [
-      "blog",
-      "itch.io"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "epic-games-game-gladiator-bla-9f2dddc530",
-    "title": "[Epic Games] (Game) Gladiator: Blades of Fury（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhqj9/epic_games_game_gladiator_blades_of_fury/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhqj9/epic_games_game_gladiator_blades_of_fury/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "epic-games-game-quiztopia-the-e6418a0d7b",
-    "title": "[Epic Games] (Game) Quiztopia : The Ultimate Trivia（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhr0f/epic_games_game_quiztopia_the_ultimate_trivia/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhr0f/epic_games_game_quiztopia_the_ultimate_trivia/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "steam-game-asleep-act-1-reddi-aa3c386a50",
-    "title": "[Steam] (Game) Asleep: Act 1（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkwtl/steam_game_asleep_act_1/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkwtl/steam_game_asleep_act_1/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-06",
-    "status": "ended"
-  },
-  {
-    "id": "gog-game-a-new-beginning-fina-5d05ae3837",
-    "title": "[GOG] (Game) A New Beginning: Final Cut（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjg650/gog_game_a_new_beginning_final_cut/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjg650/gog_game_a_new_beginning_final_cut/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-06",
-    "status": "ended"
-  },
-  {
-    "id": "indiegala-game-my-darkest-wit-9825dc608e",
-    "title": "[Indiegala] (Game) My Darkest Witch（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkrk9/indiegala_game_my_darkest_witch/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkrk9/indiegala_game_my_darkest_witch/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-05",
-    "status": "ended"
-  },
-  {
-    "id": "pc-xb-ps-switch-other-dead-by-c0cc89221b",
-    "title": "[PC/XB/PS/Switch] (Other) Dead by Daylight - 100k Bloodpoints（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjp0tu/pcxbpsswitch_other_dead_by_daylight_100k/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjp0tu/pcxbpsswitch_other_dead_by_daylight_100k/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-05",
-    "status": "ended"
-  },
-  {
-    "id": "steam-game-hexologic-reddit-f-ee1ca27ad3",
-    "title": "[Steam](Game) Hexologic（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmh1/steamgame_hexologic/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmh1/steamgame_hexologic/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-05",
-    "status": "ended"
-  },
-  {
-    "id": "epic-games-game-sorry-we-re-c-52e5982104",
-    "title": "[Epic Games] (Game) Sorry We're Closed（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximc22/epic_games_game_sorry_were_closed/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximc22/epic_games_game_sorry_were_closed/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-05",
-    "status": "ended"
-  },
-  {
-    "id": "epic-games-mobile-game-galaxy-db65bfb844",
-    "title": "[Epic Games Mobile] (Game) Galaxy Kart（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximi13/epic_games_mobile_game_galaxy_kart/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximi13/epic_games_mobile_game_galaxy_kart/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-05",
-    "status": "ended"
-  },
-  {
-    "id": "psa-trash-goblin-egs-kiborg-a-d41cf914d2",
-    "title": "[PSA] Trash Goblin (EGS), Kiborg (Amazon Games) are complimentary with Amazon Prime（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmim/psa_trash_goblin_egs_kiborg_amazon_games_are/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmim/psa_trash_goblin_egs_kiborg_amazon_games_are/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "steam-dlc-v-rising-sinister-e-cabe03bb50",
-    "title": "[Steam] (DLC) V Rising - Sinister Evolution Pack（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xio57t/steam_dlc_v_rising_sinister_evolution_pack/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xio57t/steam_dlc_v_rising_sinister_evolution_pack/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "steam-game-demonator-reddit-f-9e71586c78",
-    "title": "[Steam] (Game) Demonator（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xk6om5/steam_game_demonator/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xk6om5/steam_game_demonator/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "steam-dlc-hunting-simulator-3-2236ff338f",
-    "title": "[Steam] (DLC) Hunting Simulator 3 - Classic American Hunter Pack（Reddit-FreeGameFindings）",
-    "category": "games",
-    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xik3ym/steam_dlc_hunting_simulator_3_classic_american/",
-    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xik3ym/steam_dlc_hunting_simulator_3_classic_american/",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: Reddit-FreeGameFindings",
-    "tags": [
-      "blog",
-      "Reddit-FreeGameFindings"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
     "id": "epic-lisa-definitive-edition-0bdd07144d",
     "title": "Epic 免费游戏: 《LISA: Definitive Edition》 ｜LISA：决定版",
     "category": "games",
@@ -582,7 +12,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-01 ~ 2026-11-10",
     "tags": [],
     "discovered_at": "2026-10-19T11:17:11.082899+08:00",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -940,7 +370,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-05 ~ 2026-11-12",
     "tags": [],
     "discovered_at": "2026-10-31T13:57:59.405705+08:00",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -956,7 +386,7 @@
     "description": "Epic Games Store 限时免费 | 2026-11-05 ~ 2026-11-12",
     "tags": [],
     "discovered_at": "2026-10-31T13:57:59.405860+08:00",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -994,7 +424,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-05",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1013,7 +443,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-05",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1127,7 +557,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-05",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1165,7 +595,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-05",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1241,7 +671,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-05",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1469,7 +899,7 @@
       "IsThereAnyDeal"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1507,7 +937,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1545,7 +975,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1564,7 +994,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1583,7 +1013,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1602,7 +1032,7 @@
       "Reddit-FreeGameFindings"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1621,7 +1051,7 @@
       "Reddit-FreeGameFindings"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1640,7 +1070,7 @@
       "Reddit-FreeGameFindings"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1659,7 +1089,7 @@
       "Reddit-FreeGameFindings"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1678,7 +1108,406 @@
       "Reddit-FreeGameFindings"
     ],
     "discovered_at": "2026-11-06",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-goodboy-galaxy-gba-94b1370b76",
+    "title": "[itch.io] Goodboy Galaxy Gba（限免）",
+    "category": "games",
+    "source_url": "https://goodboygalaxy.itch.io/goodboy-galaxy-gba",
+    "claim_url": "https://goodboygalaxy.itch.io/goodboy-galaxy-gba",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Goodboy Galaxy Gba",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-one-night-stand-0f91dffe3d",
+    "title": "[itch.io] One Night Stand（限免）",
+    "category": "games",
+    "source_url": "https://kinmoku.itch.io/one-night-stand",
+    "claim_url": "https://kinmoku.itch.io/one-night-stand",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: One Night Stand",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-backrooms-crawlers-71dbf303c6",
+    "title": "[itch.io] Backrooms Crawlers（限免）",
+    "category": "games",
+    "source_url": "https://worsteventgames.itch.io/backrooms-crawlers",
+    "claim_url": "https://worsteventgames.itch.io/backrooms-crawlers",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Backrooms Crawlers",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-its-not-human-2d26b6deb4",
+    "title": "[itch.io] Its Not Human（限免）",
+    "category": "games",
+    "source_url": "https://deeplookgames.itch.io/its-not-human",
+    "claim_url": "https://deeplookgames.itch.io/its-not-human",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Its Not Human",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-mosslight-hollow-3692be54d7",
+    "title": "[itch.io] Mosslight Hollow（限免）",
+    "category": "games",
+    "source_url": "https://epicurusgames.itch.io/mosslight-hollow",
+    "claim_url": "https://epicurusgames.itch.io/mosslight-hollow",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Mosslight Hollow",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-in-full-bloom-cd13e7b9c9",
+    "title": "[itch.io] In Full Bloom（限免）",
+    "category": "games",
+    "source_url": "https://obleakgames.itch.io/in-full-bloom",
+    "claim_url": "https://obleakgames.itch.io/in-full-bloom",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: In Full Bloom",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-christmas-in-our-fear-b2d90f2a2f",
+    "title": "[itch.io] Christmas In Our Fears Extended Version（限免）",
+    "category": "games",
+    "source_url": "https://murushii.itch.io/christmas-in-our-fears-extended-version",
+    "claim_url": "https://murushii.itch.io/christmas-in-our-fears-extended-version",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Christmas In Our Fears Extended Version",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-kill-the-creator-9b8845d084",
+    "title": "[itch.io] Kill The Creator（限免）",
+    "category": "games",
+    "source_url": "https://deeplookgames.itch.io/kill-the-creator",
+    "claim_url": "https://deeplookgames.itch.io/kill-the-creator",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Kill The Creator",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-afterparty-16ba68c002",
+    "title": "[itch.io] Afterparty（限免）",
+    "category": "games",
+    "source_url": "https://aylalooner.itch.io/afterparty",
+    "claim_url": "https://aylalooner.itch.io/afterparty",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Afterparty",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-pixel-swarm-f7022cac70",
+    "title": "[itch.io] Pixel Swarm（限免）",
+    "category": "games",
+    "source_url": "https://zenerationzero.itch.io/pixel-swarm",
+    "claim_url": "https://zenerationzero.itch.io/pixel-swarm",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Pixel Swarm",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-the-bunker-3c6c8c50e8",
+    "title": "[itch.io] The Bunker（限免）",
+    "category": "games",
+    "source_url": "https://cyber752.itch.io/the-bunker",
+    "claim_url": "https://cyber752.itch.io/the-bunker",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: The Bunker",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "itch-io-dont-fix-her-pipes-396d7fcf8f",
+    "title": "[itch.io] Dont Fix Her Pipes（限免）",
+    "category": "games",
+    "source_url": "https://deeplookgames.itch.io/dont-fix-her-pipes",
+    "claim_url": "https://deeplookgames.itch.io/dont-fix-her-pipes",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Dont Fix Her Pipes",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "exiled-giveaways-and-itch-io-m-468bf53699",
+    "title": "Exiled Giveaways and Itch.io Mega Threads（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xryqdy/exiled_giveaways_and_itchio_mega_threads/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xryqdy/exiled_giveaways_and_itchio_mega_threads/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-freestyle-2-street-e78b2c34b0",
+    "title": "[Steam] (Game) Freestyle 2: Street Basketball（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xs1i3q/steam_game_freestyle_2_street_basketball/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xs1i3q/steam_game_freestyle_2_street_basketball/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-sadball-reddit-fre-056630c3fd",
+    "title": "[Steam] (Game) Sadball（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xrryk1/steam_game_sadball/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xrryk1/steam_game_sadball/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-demon-sighting-red-1355705246",
+    "title": "[Steam] (Game) Demon Sighting（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xqgtz3/steam_game_demon_sighting/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xqgtz3/steam_game_demon_sighting/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-ammerow-lands-beyo-ac07527f00",
+    "title": "[Steam] (Game) Ammerow: Lands Beyond（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpxi4s/steam_game_ammerow_lands_beyond/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpxi4s/steam_game_ammerow_lands_beyond/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-growtopia-reddit-f-96b2c798d0",
+    "title": "[Steam] (Game) Growtopia（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpcoc1/steam_game_growtopia/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpcoc1/steam_game_growtopia/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-missile-input-redd-d7aaa8ca6b",
+    "title": "[Steam] (Game) Missile Input（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpcq35/steam_game_missile_input/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpcq35/steam_game_missile_input/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-stickman-killing-z-2b453292c3",
+    "title": "[Steam] (Game) Stickman Killing Zombie（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xqbtcs/steam_game_stickman_killing_zombie/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xqbtcs/steam_game_stickman_killing_zombie/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "status": "active"
+  },
+  {
+    "id": "steam-game-sorcerer-adventure-d78ab4e714",
+    "title": "[Steam] (Game) Sorcerer Adventure（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpr5x7/steam_game_sorcerer_adventure/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xpr5x7/steam_game_sorcerer_adventure/",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -1759,6 +1588,38 @@
     "status": "active"
   },
   {
+    "id": "epic-knightica-8115abff72",
+    "title": "Epic 免费游戏: 斗阵骑士 Knightica",
+    "category": "games",
+    "source_url": "https://store.epicgames.com/zh-CN/free-games",
+    "claim_url": "https://store.epicgames.com/zh-CN/free-games",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-19",
+    "value": "",
+    "requirements": [],
+    "description": "Epic Games Store 限时免费 | 2026-11-12 ~ 2026-11-19",
+    "tags": [],
+    "discovered_at": "2026-11-10T15:47:49.976921+08:00",
+    "last_seen": "2026-11-10",
+    "status": "upcoming"
+  },
+  {
+    "id": "epic-terrascape-f2be507133",
+    "title": "Epic 免费游戏: TerraScape",
+    "category": "games",
+    "source_url": "https://store.epicgames.com/zh-CN/free-games",
+    "claim_url": "https://store.epicgames.com/zh-CN/free-games",
+    "start_date": "2026-11-21",
+    "end_date": "2026-12-21",
+    "value": "",
+    "requirements": [],
+    "description": "Epic Games Store 限时免费 | 2026-11-21 ~ 2026-12-21",
+    "tags": [],
+    "discovered_at": "2026-11-10T15:47:49.976911+08:00",
+    "last_seen": "2026-11-10",
+    "status": "upcoming"
+  },
+  {
     "id": "epic-2-c44c4e8654",
     "title": "Epic 免费游戏: 《幽灵行者 2》",
     "category": "games",
@@ -1771,7 +1632,7 @@
     "description": "Epic Games Store 限时免费 | 2026-12-10 ~ 2027-01-07",
     "tags": [],
     "discovered_at": "2026-10-19T11:17:11.082882+08:00",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-10",
     "status": "upcoming"
   },
   {
@@ -2294,7 +2155,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2351,7 +2212,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2370,7 +2231,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2446,7 +2307,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2541,7 +2402,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2579,7 +2440,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2617,7 +2478,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2674,7 +2535,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2731,7 +2592,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2769,7 +2630,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2807,7 +2668,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -2902,7 +2763,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-19",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -3111,7 +2972,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-21",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -3362,7 +3223,7 @@
     "description": "Epic Games Store 限时免费 | 2026-10-19 ~ 2026-11-02",
     "tags": [],
     "discovered_at": "2026-10-19T11:17:11.082946+08:00",
-    "last_seen": "2026-11-01",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -3628,7 +3489,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-27",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -3970,7 +3831,7 @@
       "Reddit-FreeGameFindings"
     ],
     "discovered_at": "2026-10-27",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -4388,7 +4249,7 @@
       "itch.io"
     ],
     "discovered_at": "2026-10-28",
-    "last_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
     "status": "ended"
   },
   {
@@ -4622,6 +4483,576 @@
     ],
     "discovered_at": "2026-11-02T18:00:00+08:00",
     "last_seen": "2026-11-02",
+    "status": "ended"
+  },
+  {
+    "id": "epic-game-store-sorry-we-re-c-790d8c9a76",
+    "title": "[Epic Game Store] Sorry We're Closed（限免）",
+    "category": "games",
+    "source_url": "https://isthereanydeal.com/game/sorry-we-re-closed/info/",
+    "claim_url": "https://isthereanydeal.com/game/sorry-we-re-closed/info/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "Epic Game Store 100% off 限免: Sorry We're Closed",
+    "tags": [
+      "blog",
+      "IsThereAnyDeal"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-05",
+    "status": "ended"
+  },
+  {
+    "id": "steam-asleep-ato-1-dc73a20acf",
+    "title": "[Steam] Asleep - Ato 1（限免）",
+    "category": "games",
+    "source_url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
+    "claim_url": "https://isthereanydeal.com/game/asleep-ato-1/info/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "Steam 100% off 限免: Asleep - Ato 1",
+    "tags": [
+      "blog",
+      "IsThereAnyDeal"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "steam-hunting-simulator-3-cla-2a13e0bcbd",
+    "title": "[Steam] Hunting Simulator 3 - Classic American Hunter Pack（限免）",
+    "category": "games",
+    "source_url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
+    "claim_url": "https://isthereanydeal.com/game/hunting-simulator-3-classic-american-hunter-pack/info/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "Steam 100% off 限免: Hunting Simulator 3 - Classic American Hunter Pack",
+    "tags": [
+      "blog",
+      "IsThereAnyDeal"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-10",
+    "status": "ended"
+  },
+  {
+    "id": "epic-game-store-gladiator-bla-733e71de99",
+    "title": "[Epic Game Store] gladiator-blades-of-fury（限免）",
+    "category": "games",
+    "source_url": "https://isthereanydeal.com/game/gladiator-blades-of-fury/info/",
+    "claim_url": "https://isthereanydeal.com/game/gladiator-blades-of-fury/info/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "Epic Game Store 100% off 限免: gladiator-blades-of-fury",
+    "tags": [
+      "blog",
+      "IsThereAnyDeal"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-06",
+    "status": "ended"
+  },
+  {
+    "id": "epic-game-store-quiztopia-the-948a9e4a00",
+    "title": "[Epic Game Store] quiztopia-the-ultimate-trivia（限免）",
+    "category": "games",
+    "source_url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
+    "claim_url": "https://isthereanydeal.com/game/quiztopia-the-ultimate-trivia/info/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "Epic Game Store 100% off 限免: quiztopia-the-ultimate-trivia",
+    "tags": [
+      "blog",
+      "IsThereAnyDeal"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-06",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-hotwax-3d900f079f",
+    "title": "[itch.io] Hotwax（限免）",
+    "category": "games",
+    "source_url": "https://punkcake.itch.io/hotwax",
+    "claim_url": "https://punkcake.itch.io/hotwax",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Hotwax",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-rogueslide-5d3adb67ca",
+    "title": "[itch.io] Rogueslide（限免）",
+    "category": "games",
+    "source_url": "https://beepyeah.itch.io/rogueslide",
+    "claim_url": "https://beepyeah.itch.io/rogueslide",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Rogueslide",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-poolscape-6d213c3788",
+    "title": "[itch.io] Poolscape（限免）",
+    "category": "games",
+    "source_url": "https://cosmicarcadegames.itch.io/poolscape",
+    "claim_url": "https://cosmicarcadegames.itch.io/poolscape",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Poolscape",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-lancer-tactics-2960626002",
+    "title": "[itch.io] Lancer Tactics（限免）",
+    "category": "games",
+    "source_url": "https://wick.itch.io/lancer-tactics",
+    "claim_url": "https://wick.itch.io/lancer-tactics",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Lancer Tactics",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-the-bagmans-curse-2e21861c92",
+    "title": "[itch.io] The Bagmans Curse（限免）",
+    "category": "games",
+    "source_url": "https://caramelgames.itch.io/the-bagmans-curse",
+    "claim_url": "https://caramelgames.itch.io/the-bagmans-curse",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: The Bagmans Curse",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-new-meat-a05520c88c",
+    "title": "[itch.io] New Meat（限免）",
+    "category": "games",
+    "source_url": "https://rocketlex.itch.io/new-meat",
+    "claim_url": "https://rocketlex.itch.io/new-meat",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: New Meat",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-islands-of-the-caliph-f36c99899e",
+    "title": "[itch.io] Islands Of The Caliph（限免）",
+    "category": "games",
+    "source_url": "https://schmidt-workshops.itch.io/islands-of-the-caliph",
+    "claim_url": "https://schmidt-workshops.itch.io/islands-of-the-caliph",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Islands Of The Caliph",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-jester-53d0008cc6",
+    "title": "[itch.io] Jester（限免）",
+    "category": "games",
+    "source_url": "https://ant-san.itch.io/jester",
+    "claim_url": "https://ant-san.itch.io/jester",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Jester",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-the-librarian-0ed02984ee",
+    "title": "[itch.io] The Librarian（限免）",
+    "category": "games",
+    "source_url": "https://octavinavarro.itch.io/the-librarian",
+    "claim_url": "https://octavinavarro.itch.io/the-librarian",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: The Librarian",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-dicey-dungeons-22b7356427",
+    "title": "[itch.io] Dicey Dungeons（限免）",
+    "category": "games",
+    "source_url": "https://terrycavanagh.itch.io/dicey-dungeons",
+    "claim_url": "https://terrycavanagh.itch.io/dicey-dungeons",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Dicey Dungeons",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-03",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-tinylogic-6e114b21de",
+    "title": "[itch.io] Tinylogic（限免）",
+    "category": "games",
+    "source_url": "https://whoismuzzy.itch.io/tinylogic",
+    "claim_url": "https://whoismuzzy.itch.io/tinylogic",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Tinylogic",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "itch-io-roguecraft-dx-amiga-02524d88e7",
+    "title": "[itch.io] Roguecraft Dx Amiga（限免）",
+    "category": "games",
+    "source_url": "https://thalamusdigital.itch.io/roguecraft-dx-amiga",
+    "claim_url": "https://thalamusdigital.itch.io/roguecraft-dx-amiga",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "itch.io 限时免费: Roguecraft Dx Amiga",
+    "tags": [
+      "blog",
+      "itch.io"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "epic-games-game-gladiator-bla-9f2dddc530",
+    "title": "[Epic Games] (Game) Gladiator: Blades of Fury（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhqj9/epic_games_game_gladiator_blades_of_fury/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhqj9/epic_games_game_gladiator_blades_of_fury/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "epic-games-game-quiztopia-the-e6418a0d7b",
+    "title": "[Epic Games] (Game) Quiztopia : The Ultimate Trivia（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhr0f/epic_games_game_quiztopia_the_ultimate_trivia/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xkhr0f/epic_games_game_quiztopia_the_ultimate_trivia/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "steam-game-asleep-act-1-reddi-aa3c386a50",
+    "title": "[Steam] (Game) Asleep: Act 1（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkwtl/steam_game_asleep_act_1/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkwtl/steam_game_asleep_act_1/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-06",
+    "status": "ended"
+  },
+  {
+    "id": "gog-game-a-new-beginning-fina-5d05ae3837",
+    "title": "[GOG] (Game) A New Beginning: Final Cut（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjg650/gog_game_a_new_beginning_final_cut/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjg650/gog_game_a_new_beginning_final_cut/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-06",
+    "status": "ended"
+  },
+  {
+    "id": "indiegala-game-my-darkest-wit-9825dc608e",
+    "title": "[Indiegala] (Game) My Darkest Witch（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkrk9/indiegala_game_my_darkest_witch/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjkrk9/indiegala_game_my_darkest_witch/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-05",
+    "status": "ended"
+  },
+  {
+    "id": "pc-xb-ps-switch-other-dead-by-c0cc89221b",
+    "title": "[PC/XB/PS/Switch] (Other) Dead by Daylight - 100k Bloodpoints（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjp0tu/pcxbpsswitch_other_dead_by_daylight_100k/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xjp0tu/pcxbpsswitch_other_dead_by_daylight_100k/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-05",
+    "status": "ended"
+  },
+  {
+    "id": "steam-game-hexologic-reddit-f-ee1ca27ad3",
+    "title": "[Steam](Game) Hexologic（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmh1/steamgame_hexologic/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmh1/steamgame_hexologic/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-05",
+    "status": "ended"
+  },
+  {
+    "id": "epic-games-game-sorry-we-re-c-52e5982104",
+    "title": "[Epic Games] (Game) Sorry We're Closed（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximc22/epic_games_game_sorry_were_closed/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximc22/epic_games_game_sorry_were_closed/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-05",
+    "status": "ended"
+  },
+  {
+    "id": "epic-games-mobile-game-galaxy-db65bfb844",
+    "title": "[Epic Games Mobile] (Game) Galaxy Kart（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximi13/epic_games_mobile_game_galaxy_kart/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1ximi13/epic_games_mobile_game_galaxy_kart/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-05",
+    "status": "ended"
+  },
+  {
+    "id": "psa-trash-goblin-egs-kiborg-a-d41cf914d2",
+    "title": "[PSA] Trash Goblin (EGS), Kiborg (Amazon Games) are complimentary with Amazon Prime（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmim/psa_trash_goblin_egs_kiborg_amazon_games_are/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xipmim/psa_trash_goblin_egs_kiborg_amazon_games_are/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "steam-dlc-v-rising-sinister-e-cabe03bb50",
+    "title": "[Steam] (DLC) V Rising - Sinister Evolution Pack（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xio57t/steam_dlc_v_rising_sinister_evolution_pack/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xio57t/steam_dlc_v_rising_sinister_evolution_pack/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "steam-game-demonator-reddit-f-9e71586c78",
+    "title": "[Steam] (Game) Demonator（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xk6om5/steam_game_demonator/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xk6om5/steam_game_demonator/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "steam-dlc-hunting-simulator-3-2236ff338f",
+    "title": "[Steam] (DLC) Hunting Simulator 3 - Classic American Hunter Pack（Reddit-FreeGameFindings）",
+    "category": "games",
+    "source_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xik3ym/steam_dlc_hunting_simulator_3_classic_american/",
+    "claim_url": "https://www.reddit.com/r/FreeGameFindings/comments/1xik3ym/steam_dlc_hunting_simulator_3_classic_american/",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: Reddit-FreeGameFindings",
+    "tags": [
+      "blog",
+      "Reddit-FreeGameFindings"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
     "status": "ended"
   }
 ]

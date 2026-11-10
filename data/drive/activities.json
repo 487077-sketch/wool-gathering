@@ -1,119 +1,5 @@
 [
   {
-    "id": "grok-4-gpt-2747ae25de",
-    "title": "grok 半价截止到下午 4 点 需要的下单全自动充值，另有 gpt 半价成品号",
-    "category": "drive",
-    "source_url": "https://www.v2ex.com/t/1252171",
-    "claim_url": "https://www.v2ex.com/t/1252171",
-    "start_date": "2026-10-27",
-    "end_date": "2026-11-03",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-promotions",
-    "tags": [
-      "blog",
-      "V2EX-promotions"
-    ],
-    "discovered_at": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "status": "ended"
-  },
-  {
-    "id": "hyperapi-id-15-3c5eef258f",
-    "title": "[HyperAPI 中转站]限时福利，评论留 ID，送$15 体验额度",
-    "category": "drive",
-    "source_url": "https://www.v2ex.com/t/1252147",
-    "claim_url": "https://www.v2ex.com/t/1252147",
-    "start_date": "2026-10-27",
-    "end_date": "2026-11-03",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-promotions",
-    "tags": [
-      "blog",
-      "V2EX-promotions"
-    ],
-    "discovered_at": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "status": "ended"
-  },
-  {
-    "id": "5-10-ix-10-27-a99eba731e",
-    "title": "《我享云》机场代理 · 性价比之王 · 注册免费试用 5-10 天 · 让一块钱用上 IX 专线 10-27",
-    "category": "drive",
-    "source_url": "https://www.v2ex.com/t/1252092",
-    "claim_url": "https://www.v2ex.com/t/1252092",
-    "start_date": "2026-10-27",
-    "end_date": "2026-11-03",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-promotions",
-    "tags": [
-      "blog",
-      "V2EX-promotions"
-    ],
-    "discovered_at": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "status": "ended"
-  },
-  {
-    "id": "huppo-v-11-5b9e7aa807",
-    "title": "HUPPO 香氛诚邀有烘干机的 V 友免费体验新品，另双 11 盖楼送好礼🎁",
-    "category": "drive",
-    "source_url": "https://www.v2ex.com/t/1252565",
-    "claim_url": "https://www.v2ex.com/t/1252565",
-    "start_date": "2026-10-28",
-    "end_date": "2026-11-04",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-promotions",
-    "tags": [
-      "blog",
-      "V2EX-promotions"
-    ],
-    "discovered_at": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "status": "ended"
-  },
-  {
-    "id": "vvae-for-v2ex-ai-premium-eab4335f4f",
-    "title": "VVAE for V2EX 更新：发帖预览和 AI 排版，开放一周 Premium 免费试用",
-    "category": "drive",
-    "source_url": "https://www.v2ex.com/t/1253490",
-    "claim_url": "https://www.v2ex.com/t/1253490",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-promotions",
-    "tags": [
-      "blog",
-      "V2EX-promotions"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
-    "id": "5-10-dabadb7674",
-    "title": "《我享云》机场代理 · 性价比之王 · 十一月份优惠码 · 注册免费试用 5-10 天 · 一块钱用上专线",
-    "category": "drive",
-    "source_url": "https://www.v2ex.com/t/1253470",
-    "claim_url": "https://www.v2ex.com/t/1253470",
-    "start_date": "2026-11-01",
-    "end_date": "2026-11-08",
-    "value": "",
-    "requirements": [],
-    "description": "来源: V2EX-promotions",
-    "tags": [
-      "blog",
-      "V2EX-promotions"
-    ],
-    "discovered_at": "2026-11-01",
-    "last_seen": "2026-11-01",
-    "status": "ended"
-  },
-  {
     "id": "v-5c081e22c9",
     "title": "给老婆做了个站，少儿英语学习，附 V 友 [专属折扣码]",
     "category": "drive",
@@ -168,6 +54,25 @@
     ],
     "discovered_at": "2026-11-03",
     "last_seen": "2026-11-03",
+    "status": "active"
+  },
+  {
+    "id": "1110-gpt-codex-3-a363831bd0",
+    "title": "1110 GPT 代充价格优惠， Codex 美国实卡接码 3/次（代充可送)",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1255856",
+    "claim_url": "https://www.v2ex.com/t/1255856",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-17",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-11-10",
+    "last_seen": "2026-11-10",
     "status": "active"
   },
   {
@@ -282,6 +187,120 @@
     ],
     "discovered_at": "2026-10-21",
     "last_seen": "2026-10-21",
+    "status": "ended"
+  },
+  {
+    "id": "grok-4-gpt-2747ae25de",
+    "title": "grok 半价截止到下午 4 点 需要的下单全自动充值，另有 gpt 半价成品号",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1252171",
+    "claim_url": "https://www.v2ex.com/t/1252171",
+    "start_date": "2026-10-27",
+    "end_date": "2026-11-03",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "status": "ended"
+  },
+  {
+    "id": "hyperapi-id-15-3c5eef258f",
+    "title": "[HyperAPI 中转站]限时福利，评论留 ID，送$15 体验额度",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1252147",
+    "claim_url": "https://www.v2ex.com/t/1252147",
+    "start_date": "2026-10-27",
+    "end_date": "2026-11-03",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "status": "ended"
+  },
+  {
+    "id": "5-10-ix-10-27-a99eba731e",
+    "title": "《我享云》机场代理 · 性价比之王 · 注册免费试用 5-10 天 · 让一块钱用上 IX 专线 10-27",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1252092",
+    "claim_url": "https://www.v2ex.com/t/1252092",
+    "start_date": "2026-10-27",
+    "end_date": "2026-11-03",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "status": "ended"
+  },
+  {
+    "id": "huppo-v-11-5b9e7aa807",
+    "title": "HUPPO 香氛诚邀有烘干机的 V 友免费体验新品，另双 11 盖楼送好礼🎁",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1252565",
+    "claim_url": "https://www.v2ex.com/t/1252565",
+    "start_date": "2026-10-28",
+    "end_date": "2026-11-04",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "status": "ended"
+  },
+  {
+    "id": "vvae-for-v2ex-ai-premium-eab4335f4f",
+    "title": "VVAE for V2EX 更新：发帖预览和 AI 排版，开放一周 Premium 免费试用",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1253490",
+    "claim_url": "https://www.v2ex.com/t/1253490",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "status": "ended"
+  },
+  {
+    "id": "5-10-dabadb7674",
+    "title": "《我享云》机场代理 · 性价比之王 · 十一月份优惠码 · 注册免费试用 5-10 天 · 一块钱用上专线",
+    "category": "drive",
+    "source_url": "https://www.v2ex.com/t/1253470",
+    "claim_url": "https://www.v2ex.com/t/1253470",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-08",
+    "value": "",
+    "requirements": [],
+    "description": "来源: V2EX-promotions",
+    "tags": [
+      "blog",
+      "V2EX-promotions"
+    ],
+    "discovered_at": "2026-11-01",
+    "last_seen": "2026-11-01",
     "status": "ended"
   }
 ]
