@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T19:38:30.422262+08:00",
-  "today": "2026-11-10",
+  "generated_at": "2026-11-11T09:27:23.366723+08:00",
+  "today": "2026-11-11",
   "repository": "487077-sketch/wool-gathering",
   "total": 396,
   "by_category": {
@@ -18,15 +18,15 @@
     },
     "drive": {
       "total": 16,
-      "active": 4,
+      "active": 1,
       "upcoming": 0,
-      "ended": 12
+      "ended": 15
     },
     "games": {
       "total": 268,
-      "active": 84,
+      "active": 65,
       "upcoming": 3,
-      "ended": 181
+      "ended": 200
     },
     "shopping": {
       "total": 15,
