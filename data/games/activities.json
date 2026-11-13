@@ -371,7 +371,7 @@
     "tags": [],
     "discovered_at": "2026-10-31T13:57:59.405705+08:00",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-fdfa30294b",
@@ -387,7 +387,7 @@
     "tags": [],
     "discovered_at": "2026-10-31T13:57:59.405860+08:00",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-game-store-horse-racing-47c7e27932",
@@ -406,7 +406,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-05",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-gloom-break-2047e6706a",
@@ -425,7 +425,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-fix-her-pipes-51b38ba67c",
@@ -444,7 +444,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-3dnes-67f2728e68",
@@ -463,7 +463,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-bighead-d850cb820f",
@@ -482,7 +482,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-05",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-very-realistic-game-d-9019bb52c9",
@@ -501,7 +501,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-do-you-have-a-moment-67d828de82",
@@ -520,7 +520,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-05",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-pigeon-west-el-diablo-84a1708806",
@@ -539,7 +539,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-penance-4348897b3f",
@@ -558,7 +558,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-this-is-not-your-hous-e77090d37c",
@@ -577,7 +577,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-johnny-the-pigeon-f0dbaf7219",
@@ -596,7 +596,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-andromeda-six-star-cr-148f878e00",
@@ -615,7 +615,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-dispatches-1940-2a9267bcea",
@@ -634,7 +634,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-taguan-1e8c5205db",
@@ -653,7 +653,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-05",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-garbanzo-quest-3e73135eb5",
@@ -672,7 +672,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-jack-in-the-box-2da63f1866",
@@ -691,7 +691,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-beeswing-2d046e8647",
@@ -710,7 +710,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-canine-de4f78530b",
@@ -729,7 +729,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-05",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-at-sixes-and-sevens-189bd25f71",
@@ -748,7 +748,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-05",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "exiled-giveaways-and-itch-io-m-817c3c5993",
@@ -767,7 +767,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "steam-game-letter-quest-grimm-5ace5c937f",
@@ -786,7 +786,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "steam-game-one-must-fall-2197-838ce74334",
@@ -805,7 +805,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "steam-game-the-wild-eight-red-b96191b302",
@@ -824,7 +824,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-games-game-yash-future-g-a57ac601c6",
@@ -843,7 +843,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "steam-game-last-gambit-reddit-55ff16b8b2",
@@ -862,7 +862,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "steam-game-cold-blooded-cube-6eba3a3559",
@@ -881,7 +881,7 @@
     ],
     "discovered_at": "2026-11-05",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-game-store-flotsam-e6dade2ee3",
