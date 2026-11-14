@@ -900,7 +900,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-kinstead-702d2c50ca",
@@ -919,7 +919,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-sapphire-city-7788d2c1af",
@@ -938,7 +938,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-project-threshold-d721efebbc",
@@ -957,7 +957,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-06",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-brok-the-brawl-bar-a1a411bb39",
@@ -976,7 +976,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-the-house-before-70f5ca00f3",
@@ -995,7 +995,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-the-noise-inside-971f60286a",
@@ -1014,7 +1014,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-games-game-gmh-good-morn-0cb1e5a3f5",
@@ -1033,7 +1033,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-games-game-flotsam-reddi-d769250900",
@@ -1052,7 +1052,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-games-mobile-game-chants-f029c5dc80",
@@ -1071,7 +1071,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "psa-squirrel-with-a-gun-amazo-c8999c7231",
@@ -1090,7 +1090,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "epic-games-other-idle-champio-e5a47da259",
@@ -1109,7 +1109,7 @@
     ],
     "discovered_at": "2026-11-06",
     "last_seen": "2026-11-10",
-    "status": "active"
+    "status": "ended"
   },
   {
     "id": "itch-io-goodboy-galaxy-gba-94b1370b76",
