@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-16T19:49:28.945548+08:00",
-  "today": "2026-11-16",
+  "generated_at": "2026-11-17T09:36:14.965470+08:00",
+  "today": "2026-11-17",
   "repository": "487077-sketch/wool-gathering",
-  "total": 420,
+  "total": 421,
   "by_category": {
     "ai": {
-      "total": 61,
-      "active": 52,
+      "total": 62,
+      "active": 51,
       "upcoming": 0,
-      "ended": 9
+      "ended": 11
     },
     "open-source": {
       "total": 22,
