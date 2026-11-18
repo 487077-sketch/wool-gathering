@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-17T19:29:03.649712+08:00",
-  "today": "2026-11-17",
+  "generated_at": "2026-11-18T09:42:08.599911+08:00",
+  "today": "2026-11-18",
   "repository": "487077-sketch/wool-gathering",
   "total": 421,
   "by_category": {
     "ai": {
       "total": 62,
-      "active": 51,
+      "active": 44,
       "upcoming": 0,
-      "ended": 11
+      "ended": 18
     },
     "open-source": {
       "total": 22,
@@ -18,21 +18,21 @@
     },
     "drive": {
       "total": 16,
-      "active": 1,
+      "active": 0,
       "upcoming": 0,
-      "ended": 15
+      "ended": 16
     },
     "games": {
       "total": 290,
-      "active": 48,
+      "active": 27,
       "upcoming": 2,
-      "ended": 240
+      "ended": 261
     },
     "shopping": {
       "total": 15,
-      "active": 10,
+      "active": 9,
       "upcoming": 0,
-      "ended": 5
+      "ended": 6
     },
     "video-vip": {
       "total": 3,
